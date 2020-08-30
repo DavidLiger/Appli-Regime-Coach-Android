@@ -13,4 +13,13 @@ Au cours de ce projet en Android Natif, j'ai réaliser les étapes suivantes :
 
 ![alt text](https://github.com/DavidLiger/Appli-Regime-Coach-Android/blob/master/app/src/main/res/mainActivity.png)
 
+Capture d'écran de l'écran d'accueil
+
+![alt text](https://github.com/DavidLiger/Appli-Regime-Coach-Android/blob/master/app/src/main/res/mainActivity.png)
+
+Capture d'écran de l'écran de calcul de l'IMC
+
+![alt text](https://github.com/DavidLiger/Appli-Regime-Coach-Android/blob/master/app/src/main/res/histoActivity.png)
+
+Capture d'écran de l'historique des utilisations
 
