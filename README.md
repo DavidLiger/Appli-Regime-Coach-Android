@@ -11,4 +11,6 @@ Au cours de ce projet en Android Natif, j'ai réaliser les étapes suivantes :
 - Accès a plusieurs interfaces
 - Utilisation de liste Adapter Interactive
 
+![alt text](https://github.com/DavidLiger/Appli-Regime-Coach-Android/blob/master/app/src/main/res/mainActivity.png)
+
 
