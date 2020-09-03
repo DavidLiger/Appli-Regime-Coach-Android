@@ -1,25 +1,25 @@
 # Appli-Regime-Coach-Android
 Android App to manage weight loss
 
-Au cours de ce projet en Android Natif, j'ai réaliser les étapes suivantes :
-- Construction d'une interface
-- Développement de la couche modèle et tests unitaires
-- Développement du controleur et génération de la Javadoc
-- Développement de la vue
-- Persistance des données dans une BDD MySQL
-- Formatage de la date
-- Accès a plusieurs interfaces
-- Utilisation de liste Adapter Interactive
+During this project in Native Android, I have carried out the following steps :
+- Construction of an interface
+- Development of the model layer and unit tests
+- Development of the controller and generation of the Javadoc
+- Sight development
+- Data persistence in a MySQL database
+- Date formatting
+- Access to several interfaces
+- Using the Adapter Interactive list
 
 ![alt text](https://github.com/DavidLiger/Appli-Regime-Coach-Android/blob/master/app/src/main/res/mainActivity.png)
 
-Capture d'écran de l'écran d'accueil
+Screenshot of the home screen
 
 ![alt text](https://github.com/DavidLiger/Appli-Regime-Coach-Android/blob/master/app/src/main/res/mainActivity.png)
 
-Capture d'écran de l'écran de calcul de l'IMC
+Screenshot of the Body Mass Index calculation screen
 
 ![alt text](https://github.com/DavidLiger/Appli-Regime-Coach-Android/blob/master/app/src/main/res/histoActivity.png)
 
-Capture d'écran de l'historique des utilisations
+Screenshot of usage history
 
